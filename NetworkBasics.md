@@ -1,4 +1,4 @@
-##### Network Components
+#### Network Components
 
 **Client**
 
@@ -36,7 +36,7 @@ own pro's and con's.
 A WAN connects two seperate networks together.
 
 
-##### Network Resources
+#### Network Resources
 
 **Client/Server Model**
 
