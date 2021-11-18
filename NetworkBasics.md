@@ -1,4 +1,4 @@
-#### Network Components
+## Network Components
 
 **Client**
 
@@ -35,10 +35,41 @@ own pro's and con's.
 
 A WAN connects two seperate networks together.
 
+***
 
-#### Network Resources
+## Network Resources
 
 **Client/Server Model**
 
 The Client/Server model uses a dedicated server to provide acccess to files, scanners, printers and many other resources.
+
+**Peer to Peer Model**
+
+Peers share resourses (printers/files) directly with each other.
+
+***
+
+## Network Geography 
+
+**Personal Area Network (PAN)**
+
+Smallest type of wired or wireless network. Covers approximately 10ft or less.
+Ex. Bluetooth, USB
+
+**Local Area Network (LAN)**
+
+Connects components with a limited distance (100 meters or less).
+Ex. Small office, one floor of an office building
+
+**Campus Area Network (CAN)**
+
+Connects building centric LANs across a campus or office park.
+
+**Metropolitan Area Network (MAN)**
+
+Connects scattered locations across a city or metro area (Approx 25 miles).
+
+**Wide Area Network**
+
+Connects geographically disparate networks. Consists of leased lines and VPN's tunneled over the internet. The internet as most people know it, is a global WAN.
 
