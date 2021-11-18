@@ -1,4 +1,4 @@
-## Network Components
+##### Network Components
 
 **Client**
 
@@ -34,3 +34,11 @@ own pro's and con's.
 **Wide Area Network (WAN)**
 
 A WAN connects two seperate networks together.
+
+
+##### Network Resources
+
+**Client/Server Model**
+
+The Client/Server model uses a dedicated server to provide acccess to files, scanners, printers and many other resources.
+
